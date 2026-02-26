@@ -1460,3 +1460,1425 @@
 2026 02 26 13:51:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=4
 2026 02 26 13:51:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4646 | steps=15333
 2026 02 26 13:51:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 6], received=[11, 12]
+2026 02 26 13:51:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4639 | steps=15362
+2026 02 26 13:51:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 13:51:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4633 | steps=15389
+2026 02 26 13:51:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:51:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4627 | steps=15411
+2026 02 26 13:51:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:51:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:51:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4621 | steps=15438
+2026 02 26 13:51:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 13:51:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4615 | steps=15467
+2026 02 26 13:51:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 13:51:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4608 | steps=15495
+2026 02 26 13:51:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:51:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4601 | steps=15525
+2026 02 26 13:51:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 13:51:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4596 | steps=15548
+2026 02 26 13:51:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 13:51:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 3]
+2026 02 26 13:51:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4590 | steps=15572
+2026 02 26 13:51:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:51:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 3]
+2026 02 26 13:51:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4584 | steps=15598
+2026 02 26 13:51:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:51:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4579 | steps=15623
+2026 02 26 13:51:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 13:51:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4572 | steps=15652
+2026 02 26 13:51:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 5], received=[11, 11]
+2026 02 26 13:51:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4567 | steps=15674
+2026 02 26 13:51:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:52:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4560 | steps=15704
+2026 02 26 13:52:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:52:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4554 | steps=15729
+2026 02 26 13:52:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:52:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:52:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4549 | steps=15752
+2026 02 26 13:52:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:52:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 4]
+2026 02 26 13:52:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4543 | steps=15778
+2026 02 26 13:52:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:52:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4537 | steps=15806
+2026 02 26 13:52:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:52:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4532 | steps=15829
+2026 02 26 13:52:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 13:52:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4525 | steps=15858
+2026 02 26 13:52:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:52:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4520 | steps=15882
+2026 02 26 13:52:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 13:52:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4514 | steps=15909
+2026 02 26 13:52:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 6], received=[11, 11]
+2026 02 26 13:52:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4507 | steps=15938
+2026 02 26 13:52:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:52:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4502 | steps=15963
+2026 02 26 13:52:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:52:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4496 | steps=15987
+2026 02 26 13:52:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:52:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4490 | steps=16016
+2026 02 26 13:52:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 13:52:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4484 | steps=16040
+2026 02 26 13:52:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:52:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4479 | steps=16064
+2026 02 26 13:52:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:52:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4474 | steps=16086
+2026 02 26 13:52:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 13:52:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4469 | steps=16110
+2026 02 26 13:52:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:52:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:52:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4463 | steps=16136
+2026 02 26 13:52:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:52:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4456 | steps=16165
+2026 02 26 13:52:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=10, received=2
+2026 02 26 13:52:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4450 | steps=16193
+2026 02 26 13:52:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 13:52:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4445 | steps=16217
+2026 02 26 13:52:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 13:52:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4438 | steps=16248
+2026 02 26 13:52:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 13:52:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4433 | steps=16272
+2026 02 26 13:52:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 13:52:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4427 | steps=16295
+2026 02 26 13:52:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:52:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 13:52:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4422 | steps=16318
+2026 02 26 13:52:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:53:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4417 | steps=16342
+2026 02 26 13:53:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:53:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4411 | steps=16367
+2026 02 26 13:53:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 13:53:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4406 | steps=16390
+2026 02 26 13:53:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:53:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4401 | steps=16416
+2026 02 26 13:53:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 13:53:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4395 | steps=16442
+2026 02 26 13:53:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:53:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4389 | steps=16470
+2026 02 26 13:53:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 11]
+2026 02 26 13:53:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4384 | steps=16494
+2026 02 26 13:53:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:53:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 13:53:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4377 | steps=16524
+2026 02 26 13:53:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:53:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4372 | steps=16545
+2026 02 26 13:53:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:53:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4366 | steps=16573
+2026 02 26 13:53:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:53:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:53:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4360 | steps=16604
+2026 02 26 13:53:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:53:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4354 | steps=16631
+2026 02 26 13:53:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:53:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 13:53:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4348 | steps=16658
+2026 02 26 13:53:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:53:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4342 | steps=16686
+2026 02 26 13:53:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[12, 12]
+2026 02 26 13:53:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4336 | steps=16714
+2026 02 26 13:53:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 13:53:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4331 | steps=16737
+2026 02 26 13:53:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 13:53:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4325 | steps=16765
+2026 02 26 13:53:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 13:53:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4319 | steps=16793
+2026 02 26 13:53:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:53:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4313 | steps=16817
+2026 02 26 13:53:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:53:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4306 | steps=16851
+2026 02 26 13:53:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 13:53:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4301 | steps=16875
+2026 02 26 13:53:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 13:53:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4295 | steps=16902
+2026 02 26 13:53:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 13:53:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4289 | steps=16932
+2026 02 26 13:53:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 13:53:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4284 | steps=16952
+2026 02 26 13:53:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:53:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=6, received=12
+2026 02 26 13:54:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4279 | steps=16978
+2026 02 26 13:54:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 13:54:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4272 | steps=17010
+2026 02 26 13:54:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=4
+2026 02 26 13:54:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4267 | steps=17034
+2026 02 26 13:54:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 13:54:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4262 | steps=17057
+2026 02 26 13:54:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 13:54:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4256 | steps=17085
+2026 02 26 13:54:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=5
+2026 02 26 13:54:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4251 | steps=17109
+2026 02 26 13:54:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:54:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4246 | steps=17132
+2026 02 26 13:54:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:54:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4240 | steps=17159
+2026 02 26 13:54:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 6], received=[11, 12]
+2026 02 26 13:54:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4235 | steps=17185
+2026 02 26 13:54:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[12, 12]
+2026 02 26 13:54:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4231 | steps=17201
+2026 02 26 13:54:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 13:54:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 4]
+2026 02 26 13:54:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4227 | steps=17223
+2026 02 26 13:54:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:54:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 2]
+2026 02 26 13:54:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4221 | steps=17249
+2026 02 26 13:54:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:54:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4217 | steps=17269
+2026 02 26 13:54:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 13:54:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4211 | steps=17295
+2026 02 26 13:54:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 13:54:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4205 | steps=17327
+2026 02 26 13:54:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 6], received=[11, 11]
+2026 02 26 13:54:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4200 | steps=17350
+2026 02 26 13:54:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 13:54:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4194 | steps=17377
+2026 02 26 13:54:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:54:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4189 | steps=17403
+2026 02 26 13:54:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:54:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4182 | steps=17436
+2026 02 26 13:54:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 13:54:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4176 | steps=17463
+2026 02 26 13:54:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 13:54:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4171 | steps=17487
+2026 02 26 13:54:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 6], received=[10, 12]
+2026 02 26 13:55:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4167 | steps=17509
+2026 02 26 13:55:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 13:55:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4162 | steps=17531
+2026 02 26 13:55:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[10, 12]
+2026 02 26 13:55:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4156 | steps=17560
+2026 02 26 13:55:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:55:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4150 | steps=17590
+2026 02 26 13:55:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:55:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4144 | steps=17619
+2026 02 26 13:55:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:55:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 13:55:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4139 | steps=17644
+2026 02 26 13:55:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:55:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:55:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4132 | steps=17677
+2026 02 26 13:55:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:55:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4126 | steps=17703
+2026 02 26 13:55:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:55:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 13:55:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4121 | steps=17728
+2026 02 26 13:55:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:55:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4116 | steps=17754
+2026 02 26 13:55:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:55:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:55:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4110 | steps=17783
+2026 02 26 13:55:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:55:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4105 | steps=17808
+2026 02 26 13:55:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 13:55:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4099 | steps=17838
+2026 02 26 13:55:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 13:55:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4094 | steps=17862
+2026 02 26 13:55:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[10, 11]
+2026 02 26 13:55:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4089 | steps=17884
+2026 02 26 13:55:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:55:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4084 | steps=17911
+2026 02 26 13:55:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[9, 9]
+2026 02 26 13:55:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4079 | steps=17935
+2026 02 26 13:55:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:55:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:55:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4074 | steps=17960
+2026 02 26 13:55:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:55:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4067 | steps=17991
+2026 02 26 13:55:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 13:55:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4063 | steps=18013
+2026 02 26 13:55:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:55:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[4, 4]
+2026 02 26 13:56:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4057 | steps=18040
+2026 02 26 13:56:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:56:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4052 | steps=18067
+2026 02 26 13:56:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:56:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:56:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4049 | steps=18084
+2026 02 26 13:56:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:56:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 4]
+2026 02 26 13:56:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4044 | steps=18108
+2026 02 26 13:56:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 13:56:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4038 | steps=18135
+2026 02 26 13:56:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=10, received=3
+2026 02 26 13:56:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4032 | steps=18164
+2026 02 26 13:56:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 13:56:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4026 | steps=18197
+2026 02 26 13:56:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 13:56:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4021 | steps=18220
+2026 02 26 13:56:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 12]
+2026 02 26 13:56:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4017 | steps=18242
+2026 02 26 13:56:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:56:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4011 | steps=18268
+2026 02 26 13:56:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 13:56:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4007 | steps=18290
+2026 02 26 13:56:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[12, 12]
+2026 02 26 13:56:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.4003 | steps=18308
+2026 02 26 13:56:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 11]
+2026 02 26 13:56:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3999 | steps=18328
+2026 02 26 13:56:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 13:56:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3994 | steps=18354
+2026 02 26 13:56:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 13:56:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3989 | steps=18381
+2026 02 26 13:56:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[10, 11]
+2026 02 26 13:56:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3985 | steps=18401
+2026 02 26 13:56:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:56:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3981 | steps=18422
+2026 02 26 13:56:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:56:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3975 | steps=18449
+2026 02 26 13:56:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:56:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3971 | steps=18471
+2026 02 26 13:56:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:56:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 13:56:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3966 | steps=18496
+2026 02 26 13:56:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 13:57:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3960 | steps=18526
+2026 02 26 13:57:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 13:57:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3956 | steps=18547
+2026 02 26 13:57:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:57:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:57:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3951 | steps=18573
+2026 02 26 13:57:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 13:57:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3946 | steps=18595
+2026 02 26 13:57:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 13:57:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3941 | steps=18621
+2026 02 26 13:57:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 13:57:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3936 | steps=18648
+2026 02 26 13:57:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:57:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 4]
+2026 02 26 13:57:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3931 | steps=18673
+2026 02 26 13:57:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:57:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=5, received=12
+2026 02 26 13:57:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3926 | steps=18699
+2026 02 26 13:57:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 13:57:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3922 | steps=18721
+2026 02 26 13:57:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:57:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=5, received=12
+2026 02 26 13:57:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3919 | steps=18737
+2026 02 26 13:57:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 13:57:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[3, 4]
+2026 02 26 13:57:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3913 | steps=18767
+2026 02 26 13:57:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:57:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3908 | steps=18791
+2026 02 26 13:57:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 13:57:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3903 | steps=18814
+2026 02 26 13:57:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 13:57:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3899 | steps=18838
+2026 02 26 13:57:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:57:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 13:57:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3894 | steps=18865
+2026 02 26 13:57:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 12]
+2026 02 26 13:57:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3889 | steps=18887
+2026 02 26 13:57:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:57:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3884 | steps=18914
+2026 02 26 13:57:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[10, 12]
+2026 02 26 13:57:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3879 | steps=18938
+2026 02 26 13:57:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 13:58:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3874 | steps=18963
+2026 02 26 13:58:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 13:58:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3869 | steps=18992
+2026 02 26 13:58:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:58:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3865 | steps=19014
+2026 02 26 13:58:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 13:58:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3859 | steps=19043
+2026 02 26 13:58:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 13:58:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3855 | steps=19065
+2026 02 26 13:58:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 13:58:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[2, 4]
+2026 02 26 13:58:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3850 | steps=19091
+2026 02 26 13:58:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 13:58:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3845 | steps=19116
+2026 02 26 13:58:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 6], received=[11, 11]
+2026 02 26 13:58:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3841 | steps=19139
+2026 02 26 13:58:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[12, 12]
+2026 02 26 13:58:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3836 | steps=19162
+2026 02 26 13:58:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:58:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:58:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3831 | steps=19190
+2026 02 26 13:58:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[10, 11]
+2026 02 26 13:58:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3826 | steps=19217
+2026 02 26 13:58:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 13:58:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3820 | steps=19248
+2026 02 26 13:58:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 13:58:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3817 | steps=19261
+2026 02 26 13:58:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 13:58:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 5]
+2026 02 26 13:58:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3813 | steps=19285
+2026 02 26 13:58:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 13:58:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3807 | steps=19315
+2026 02 26 13:58:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 13:58:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3802 | steps=19339
+2026 02 26 13:58:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 13:58:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3799 | steps=19358
+2026 02 26 13:58:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 13:59:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3792 | steps=19395
+2026 02 26 13:59:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:59:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 13:59:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3788 | steps=19414
+2026 02 26 13:59:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[10, 12]
+2026 02 26 13:59:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3783 | steps=19442
+2026 02 26 13:59:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 13:59:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 13:59:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3777 | steps=19471
+2026 02 26 13:59:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 13:59:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3773 | steps=19493
+2026 02 26 13:59:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 13:59:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3768 | steps=19521
+2026 02 26 13:59:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 13:59:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3764 | steps=19540
+2026 02 26 13:59:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [12, 12]
+2026 02 26 13:59:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[12, 12], received=[1, 4]
+2026 02 26 13:59:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3759 | steps=19570
+2026 02 26 13:59:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[10, 11]
+2026 02 26 13:59:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3754 | steps=19597
+2026 02 26 13:59:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:59:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 13:59:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3749 | steps=19623
+2026 02 26 13:59:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 12]
+2026 02 26 13:59:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3744 | steps=19647
+2026 02 26 13:59:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 11]
+2026 02 26 13:59:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3740 | steps=19670
+2026 02 26 13:59:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:59:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 13:59:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3735 | steps=19697
+2026 02 26 13:59:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 13:59:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3730 | steps=19722
+2026 02 26 13:59:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 13:59:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3725 | steps=19751
+2026 02 26 13:59:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 13:59:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3720 | steps=19777
+2026 02 26 13:59:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 13:59:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=5, received=12
+2026 02 26 14:00:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3715 | steps=19805
+2026 02 26 14:00:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=4
+2026 02 26 14:00:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3711 | steps=19827
+2026 02 26 14:00:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:00:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3706 | steps=19851
+2026 02 26 14:00:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:00:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:00:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3702 | steps=19873
+2026 02 26 14:00:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:00:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:00:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3698 | steps=19895
+2026 02 26 14:00:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 12]
+2026 02 26 14:00:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3694 | steps=19919
+2026 02 26 14:00:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:00:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3688 | steps=19950
+2026 02 26 14:00:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:00:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3683 | steps=19976
+2026 02 26 14:00:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[10, 12]
+2026 02 26 14:00:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3678 | steps=20003
+2026 02 26 14:00:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=4
+2026 02 26 14:00:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3673 | steps=20030
+2026 02 26 14:00:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:00:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:00:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3669 | steps=20054
+2026 02 26 14:00:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 14:00:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3663 | steps=20083
+2026 02 26 14:00:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:00:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3659 | steps=20106
+2026 02 26 14:00:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:00:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3655 | steps=20131
+2026 02 26 14:00:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 14:00:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3650 | steps=20158
+2026 02 26 14:00:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:00:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3645 | steps=20182
+2026 02 26 14:00:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:00:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3641 | steps=20207
+2026 02 26 14:00:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:00:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:01:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3636 | steps=20232
+2026 02 26 14:01:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 14:01:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3632 | steps=20258
+2026 02 26 14:01:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:01:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3627 | steps=20285
+2026 02 26 14:01:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:01:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3621 | steps=20314
+2026 02 26 14:01:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:01:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3617 | steps=20340
+2026 02 26 14:01:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[6, 6], received=[11, 11]
+2026 02 26 14:01:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3612 | steps=20365
+2026 02 26 14:01:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:01:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3608 | steps=20389
+2026 02 26 14:01:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[10, 11]
+2026 02 26 14:01:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3603 | steps=20415
+2026 02 26 14:01:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:01:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3599 | steps=20439
+2026 02 26 14:01:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:01:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3594 | steps=20464
+2026 02 26 14:01:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:01:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 3]
+2026 02 26 14:01:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3589 | steps=20494
+2026 02 26 14:01:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:01:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3584 | steps=20519
+2026 02 26 14:01:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:01:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3580 | steps=20545
+2026 02 26 14:01:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:01:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3576 | steps=20567
+2026 02 26 14:01:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:01:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3571 | steps=20596
+2026 02 26 14:01:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:01:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3566 | steps=20621
+2026 02 26 14:01:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:01:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:02:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3562 | steps=20646
+2026 02 26 14:02:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[10, 10]
+2026 02 26 14:02:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3558 | steps=20670
+2026 02 26 14:02:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:02:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3553 | steps=20697
+2026 02 26 14:02:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:02:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:02:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3548 | steps=20721
+2026 02 26 14:02:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:02:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:02:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3545 | steps=20742
+2026 02 26 14:02:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:02:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:02:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3540 | steps=20766
+2026 02 26 14:02:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:02:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:02:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3536 | steps=20791
+2026 02 26 14:02:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 14:02:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3532 | steps=20816
+2026 02 26 14:02:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[10, 11]
+2026 02 26 14:02:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3528 | steps=20839
+2026 02 26 14:02:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:02:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3523 | steps=20867
+2026 02 26 14:02:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[12, 12]
+2026 02 26 14:02:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3517 | steps=20898
+2026 02 26 14:02:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:02:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3513 | steps=20921
+2026 02 26 14:02:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:02:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3509 | steps=20947
+2026 02 26 14:02:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:02:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3503 | steps=20978
+2026 02 26 14:02:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:02:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3499 | steps=20999
+2026 02 26 14:02:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:02:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:02:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3495 | steps=21026
+2026 02 26 14:02:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 14:03:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3490 | steps=21052
+2026 02 26 14:03:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:03:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3486 | steps=21074
+2026 02 26 14:03:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:03:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:03:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3481 | steps=21103
+2026 02 26 14:03:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:03:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3476 | steps=21134
+2026 02 26 14:03:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:03:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3472 | steps=21157
+2026 02 26 14:03:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:03:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3468 | steps=21178
+2026 02 26 14:03:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:03:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[6, 6]
+2026 02 26 14:03:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3464 | steps=21201
+2026 02 26 14:03:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:03:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 3]
+2026 02 26 14:03:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3460 | steps=21227
+2026 02 26 14:03:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:03:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3456 | steps=21248
+2026 02 26 14:03:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:03:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3451 | steps=21275
+2026 02 26 14:03:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:03:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3447 | steps=21303
+2026 02 26 14:03:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:03:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3443 | steps=21323
+2026 02 26 14:03:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:03:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3438 | steps=21352
+2026 02 26 14:03:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:03:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3434 | steps=21378
+2026 02 26 14:03:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:03:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3430 | steps=21398
+2026 02 26 14:03:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:03:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=5, received=12
+2026 02 26 14:04:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3427 | steps=21419
+2026 02 26 14:04:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:04:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[4, 4]
+2026 02 26 14:04:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3422 | steps=21448
+2026 02 26 14:04:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[9, 11]
+2026 02 26 14:04:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3418 | steps=21469
+2026 02 26 14:04:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 5], received=[11, 11]
+2026 02 26 14:04:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3414 | steps=21494
+2026 02 26 14:04:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:04:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3410 | steps=21519
+2026 02 26 14:04:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:04:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:04:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3405 | steps=21544
+2026 02 26 14:04:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:04:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3402 | steps=21564
+2026 02 26 14:04:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:04:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3397 | steps=21591
+2026 02 26 14:04:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:04:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3393 | steps=21614
+2026 02 26 14:04:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:04:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3389 | steps=21639
+2026 02 26 14:04:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:04:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3385 | steps=21662
+2026 02 26 14:04:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [10, 11]
+2026 02 26 14:04:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[10, 11], received=[2, 3]
+2026 02 26 14:04:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3381 | steps=21689
+2026 02 26 14:04:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:04:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3376 | steps=21715
+2026 02 26 14:04:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:04:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:04:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3372 | steps=21743
+2026 02 26 14:04:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 12]
+2026 02 26 14:04:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3367 | steps=21773
+2026 02 26 14:04:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:04:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3362 | steps=21798
+2026 02 26 14:04:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:04:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3358 | steps=21824
+2026 02 26 14:04:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=4
+2026 02 26 14:05:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3353 | steps=21853
+2026 02 26 14:05:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:05:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3349 | steps=21878
+2026 02 26 14:05:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:05:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3345 | steps=21904
+2026 02 26 14:05:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:05:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3340 | steps=21930
+2026 02 26 14:05:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:05:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3336 | steps=21958
+2026 02 26 14:05:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 12]
+2026 02 26 14:05:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3332 | steps=21981
+2026 02 26 14:05:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:05:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3328 | steps=22002
+2026 02 26 14:05:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=5
+2026 02 26 14:05:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3325 | steps=22023
+2026 02 26 14:05:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:05:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 4]
+2026 02 26 14:05:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3321 | steps=22046
+2026 02 26 14:05:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:05:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3316 | steps=22073
+2026 02 26 14:05:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:05:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3314 | steps=22090
+2026 02 26 14:05:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:05:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 5]
+2026 02 26 14:05:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3309 | steps=22116
+2026 02 26 14:05:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[10, 11]
+2026 02 26 14:05:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3305 | steps=22140
+2026 02 26 14:05:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 5], received=[11, 11]
+2026 02 26 14:05:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3301 | steps=22166
+2026 02 26 14:05:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:05:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3297 | steps=22193
+2026 02 26 14:05:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:05:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:05:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3292 | steps=22222
+2026 02 26 14:05:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:05:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:06:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3288 | steps=22247
+2026 02 26 14:06:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:06:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3283 | steps=22273
+2026 02 26 14:06:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:06:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3280 | steps=22295
+2026 02 26 14:06:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:06:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:06:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3276 | steps=22321
+2026 02 26 14:06:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:06:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:06:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3271 | steps=22351
+2026 02 26 14:06:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:06:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3268 | steps=22369
+2026 02 26 14:06:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:06:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3264 | steps=22393
+2026 02 26 14:06:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:06:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3259 | steps=22420
+2026 02 26 14:06:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:06:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3256 | steps=22443
+2026 02 26 14:06:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:06:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3251 | steps=22470
+2026 02 26 14:06:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[10, 12]
+2026 02 26 14:06:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3247 | steps=22496
+2026 02 26 14:06:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 5], received=[11, 12]
+2026 02 26 14:06:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3243 | steps=22521
+2026 02 26 14:06:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:06:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3239 | steps=22546
+2026 02 26 14:06:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[12, 12]
+2026 02 26 14:06:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3235 | steps=22569
+2026 02 26 14:06:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 14:07:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3232 | steps=22592
+2026 02 26 14:07:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:07:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3227 | steps=22621
+2026 02 26 14:07:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:07:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3222 | steps=22650
+2026 02 26 14:07:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:07:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3218 | steps=22675
+2026 02 26 14:07:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:07:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3214 | steps=22699
+2026 02 26 14:07:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:07:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3210 | steps=22724
+2026 02 26 14:07:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 11]
+2026 02 26 14:07:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3207 | steps=22747
+2026 02 26 14:07:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:07:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3203 | steps=22768
+2026 02 26 14:07:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:07:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:07:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3199 | steps=22795
+2026 02 26 14:07:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:07:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3194 | steps=22823
+2026 02 26 14:07:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:07:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3190 | steps=22850
+2026 02 26 14:07:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:07:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3186 | steps=22877
+2026 02 26 14:07:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 12]
+2026 02 26 14:07:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3182 | steps=22903
+2026 02 26 14:07:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:07:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3177 | steps=22931
+2026 02 26 14:07:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:08:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3173 | steps=22958
+2026 02 26 14:08:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:08:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 2]
+2026 02 26 14:08:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3169 | steps=22982
+2026 02 26 14:08:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:08:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3165 | steps=23009
+2026 02 26 14:08:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 12]
+2026 02 26 14:08:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3161 | steps=23033
+2026 02 26 14:08:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 5], received=[11, 12]
+2026 02 26 14:08:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3156 | steps=23065
+2026 02 26 14:08:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:08:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3152 | steps=23089
+2026 02 26 14:08:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:08:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:08:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3147 | steps=23121
+2026 02 26 14:08:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=5
+2026 02 26 14:08:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3143 | steps=23148
+2026 02 26 14:08:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:08:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3138 | steps=23180
+2026 02 26 14:08:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:08:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3133 | steps=23212
+2026 02 26 14:08:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:08:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:08:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3129 | steps=23239
+2026 02 26 14:08:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:08:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3125 | steps=23262
+2026 02 26 14:08:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:08:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3122 | steps=23284
+2026 02 26 14:08:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:08:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 4]
+2026 02 26 14:08:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3118 | steps=23309
+2026 02 26 14:08:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:09:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3114 | steps=23330
+2026 02 26 14:09:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:09:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:09:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3110 | steps=23361
+2026 02 26 14:09:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:09:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3105 | steps=23389
+2026 02 26 14:09:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:09:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3102 | steps=23412
+2026 02 26 14:09:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:09:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3098 | steps=23437
+2026 02 26 14:09:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:09:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3095 | steps=23458
+2026 02 26 14:09:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 12]
+2026 02 26 14:09:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3091 | steps=23480
+2026 02 26 14:09:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:09:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:09:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3087 | steps=23504
+2026 02 26 14:09:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:09:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3084 | steps=23528
+2026 02 26 14:09:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:09:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3080 | steps=23553
+2026 02 26 14:09:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:09:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3076 | steps=23579
+2026 02 26 14:09:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:09:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3072 | steps=23602
+2026 02 26 14:09:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:09:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3068 | steps=23630
+2026 02 26 14:09:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:10:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3063 | steps=23661
+2026 02 26 14:10:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:10:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3060 | steps=23686
+2026 02 26 14:10:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:10:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:10:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3054 | steps=23723
+2026 02 26 14:10:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:10:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3050 | steps=23746
+2026 02 26 14:10:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:10:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3046 | steps=23774
+2026 02 26 14:10:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:10:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3042 | steps=23803
+2026 02 26 14:10:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:10:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3038 | steps=23824
+2026 02 26 14:10:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:10:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3035 | steps=23846
+2026 02 26 14:10:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:10:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3032 | steps=23868
+2026 02 26 14:10:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:10:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3028 | steps=23896
+2026 02 26 14:10:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:10:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:10:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3023 | steps=23923
+2026 02 26 14:10:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:11:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3019 | steps=23951
+2026 02 26 14:11:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:11:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3016 | steps=23973
+2026 02 26 14:11:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:11:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:11:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3012 | steps=24000
+2026 02 26 14:11:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:11:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:11:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3008 | steps=24025
+2026 02 26 14:11:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:11:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3004 | steps=24051
+2026 02 26 14:11:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:11:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.3001 | steps=24075
+2026 02 26 14:11:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:11:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 3]
+2026 02 26 14:11:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2997 | steps=24100
+2026 02 26 14:11:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:11:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2994 | steps=24121
+2026 02 26 14:11:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:11:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:11:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2990 | steps=24143
+2026 02 26 14:11:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:12:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2987 | steps=24167
+2026 02 26 14:12:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 14:12:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2982 | steps=24197
+2026 02 26 14:12:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 12]
+2026 02 26 14:12:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2978 | steps=24227
+2026 02 26 14:12:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:12:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2975 | steps=24248
+2026 02 26 14:12:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 11]
+2026 02 26 14:12:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2971 | steps=24274
+2026 02 26 14:12:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:13:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2967 | steps=24298
+2026 02 26 14:13:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:13:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:13:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2964 | steps=24322
+2026 02 26 14:13:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 11]
+2026 02 26 14:13:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2960 | steps=24349
+2026 02 26 14:13:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:13:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:13:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2956 | steps=24377
+2026 02 26 14:13:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:13:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2952 | steps=24399
+2026 02 26 14:13:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [10]
+2026 02 26 14:13:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=10
+2026 02 26 14:13:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2948 | steps=24427
+2026 02 26 14:13:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:13:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:13:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2944 | steps=24456
+2026 02 26 14:13:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:14:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2940 | steps=24481
+2026 02 26 14:14:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:14:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2936 | steps=24513
+2026 02 26 14:14:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:14:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2932 | steps=24539
+2026 02 26 14:14:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[12, 12]
+2026 02 26 14:14:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2928 | steps=24564
+2026 02 26 14:14:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:14:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:14:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2925 | steps=24587
+2026 02 26 14:14:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:14:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2922 | steps=24609
+2026 02 26 14:14:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:14:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:14:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2918 | steps=24635
+2026 02 26 14:14:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:15:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2914 | steps=24662
+2026 02 26 14:15:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:15:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2910 | steps=24689
+2026 02 26 14:15:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:15:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2905 | steps=24720
+2026 02 26 14:15:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 12]
+2026 02 26 14:15:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2902 | steps=24745
+2026 02 26 14:15:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:15:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2898 | steps=24768
+2026 02 26 14:15:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 14:15:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2894 | steps=24797
+2026 02 26 14:15:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:15:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2890 | steps=24825
+2026 02 26 14:15:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:15:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2886 | steps=24851
+2026 02 26 14:15:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:16:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2882 | steps=24879
+2026 02 26 14:16:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:16:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2879 | steps=24905
+2026 02 26 14:16:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:16:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2875 | steps=24930
+2026 02 26 14:16:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:16:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2871 | steps=24960
+2026 02 26 14:16:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:16:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2867 | steps=24989
+2026 02 26 14:16:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:16:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2862 | steps=25018
+2026 02 26 14:16:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:16:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2859 | steps=25041
+2026 02 26 14:16:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[12, 12]
+2026 02 26 14:16:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2856 | steps=25065
+2026 02 26 14:16:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:17:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2853 | steps=25087
+2026 02 26 14:17:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:17:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:17:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2849 | steps=25112
+2026 02 26 14:17:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:17:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2845 | steps=25139
+2026 02 26 14:17:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:17:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2842 | steps=25161
+2026 02 26 14:17:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:17:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2838 | steps=25186
+2026 02 26 14:17:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:17:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2834 | steps=25215
+2026 02 26 14:17:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:17:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2831 | steps=25237
+2026 02 26 14:17:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Model saved → results/models/dqn_latest.pt
+2026 02 26 14:17:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Game over | total steps: 25237
+2026 02 26 14:17:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Model saved → results/models/dqn_game_1.pt
+2026 02 26 14:17:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match started. My cards: [5, 6, 6, 6, 7, 8, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 12]
+2026 02 26 14:18:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2827 | steps=25265
+2026 02 26 14:18:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 5], received=[11, 11]
+2026 02 26 14:18:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2824 | steps=25291
+2026 02 26 14:18:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:18:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2820 | steps=25314
+2026 02 26 14:18:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[12, 12]
+2026 02 26 14:18:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2817 | steps=25340
+2026 02 26 14:18:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:18:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2813 | steps=25367
+2026 02 26 14:18:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 6], received=[11, 11]
+2026 02 26 14:18:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2810 | steps=25386
+2026 02 26 14:18:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:18:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2806 | steps=25414
+2026 02 26 14:18:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:18:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:18:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2803 | steps=25439
+2026 02 26 14:18:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:18:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2799 | steps=25466
+2026 02 26 14:18:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:18:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2795 | steps=25492
+2026 02 26 14:18:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:18:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2791 | steps=25520
+2026 02 26 14:18:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:18:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:18:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2788 | steps=25542
+2026 02 26 14:18:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:18:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2785 | steps=25565
+2026 02 26 14:18:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[11, 11]
+2026 02 26 14:18:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2782 | steps=25589
+2026 02 26 14:18:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:18:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2779 | steps=25608
+2026 02 26 14:18:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:18:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[2, 2]
+2026 02 26 14:18:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2777 | steps=25625
+2026 02 26 14:18:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 14:18:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2773 | steps=25653
+2026 02 26 14:18:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:18:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2769 | steps=25680
+2026 02 26 14:18:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:18:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2765 | steps=25708
+2026 02 26 14:18:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:18:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2762 | steps=25731
+2026 02 26 14:18:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:18:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2759 | steps=25752
+2026 02 26 14:18:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 14:18:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2756 | steps=25773
+2026 02 26 14:18:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:18:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2752 | steps=25807
+2026 02 26 14:18:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 11]
+2026 02 26 14:19:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2749 | steps=25829
+2026 02 26 14:19:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:19:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[4, 5]
+2026 02 26 14:19:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2745 | steps=25856
+2026 02 26 14:19:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:19:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2741 | steps=25883
+2026 02 26 14:19:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:19:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2738 | steps=25906
+2026 02 26 14:19:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[12, 12]
+2026 02 26 14:19:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2735 | steps=25932
+2026 02 26 14:19:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:19:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2731 | steps=25959
+2026 02 26 14:19:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:19:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2728 | steps=25977
+2026 02 26 14:19:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:19:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2725 | steps=25999
+2026 02 26 14:19:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[10, 11]
+2026 02 26 14:19:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2722 | steps=26023
+2026 02 26 14:19:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[10, 10]
+2026 02 26 14:19:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2718 | steps=26050
+2026 02 26 14:19:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:19:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2716 | steps=26069
+2026 02 26 14:19:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:19:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2712 | steps=26098
+2026 02 26 14:19:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:19:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2709 | steps=26120
+2026 02 26 14:19:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:19:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2704 | steps=26157
+2026 02 26 14:19:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:19:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2701 | steps=26181
+2026 02 26 14:19:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:19:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:19:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2698 | steps=26204
+2026 02 26 14:19:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 12]
+2026 02 26 14:19:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2694 | steps=26229
+2026 02 26 14:19:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:19:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 3]
+2026 02 26 14:19:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2690 | steps=26258
+2026 02 26 14:19:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:19:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 3]
+2026 02 26 14:19:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2687 | steps=26286
+2026 02 26 14:19:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:19:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:20:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2683 | steps=26312
+2026 02 26 14:20:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:20:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2680 | steps=26336
+2026 02 26 14:20:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:20:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2676 | steps=26367
+2026 02 26 14:20:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 14:20:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2673 | steps=26390
+2026 02 26 14:20:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:20:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2669 | steps=26418
+2026 02 26 14:20:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:20:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2665 | steps=26446
+2026 02 26 14:20:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 12]
+2026 02 26 14:20:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2662 | steps=26470
+2026 02 26 14:20:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:20:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=12
+2026 02 26 14:20:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2658 | steps=26496
+2026 02 26 14:20:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[10, 11]
+2026 02 26 14:20:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2655 | steps=26522
+2026 02 26 14:20:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:20:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2652 | steps=26547
+2026 02 26 14:20:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 6], received=[11, 11]
+2026 02 26 14:20:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2648 | steps=26574
+2026 02 26 14:20:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:20:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2645 | steps=26598
+2026 02 26 14:20:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:20:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2641 | steps=26625
+2026 02 26 14:20:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:20:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2638 | steps=26648
+2026 02 26 14:20:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[10, 12]
+2026 02 26 14:20:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2634 | steps=26682
+2026 02 26 14:20:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:20:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2631 | steps=26705
+2026 02 26 14:20:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[10, 11]
+2026 02 26 14:20:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2628 | steps=26727
+2026 02 26 14:20:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 14:20:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2626 | steps=26742
+2026 02 26 14:20:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:20:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 3]
+2026 02 26 14:20:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2623 | steps=26767
+2026 02 26 14:20:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:20:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2620 | steps=26790
+2026 02 26 14:20:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 14:20:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2616 | steps=26815
+2026 02 26 14:20:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:21:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2613 | steps=26840
+2026 02 26 14:21:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 14:21:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2610 | steps=26865
+2026 02 26 14:21:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:21:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:21:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2606 | steps=26892
+2026 02 26 14:21:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:21:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:21:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2602 | steps=26923
+2026 02 26 14:21:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:21:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2599 | steps=26948
+2026 02 26 14:21:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 11]
+2026 02 26 14:21:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2595 | steps=26980
+2026 02 26 14:21:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:21:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2592 | steps=27002
+2026 02 26 14:21:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:21:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2589 | steps=27025
+2026 02 26 14:21:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 14:21:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2586 | steps=27052
+2026 02 26 14:21:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:21:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2582 | steps=27081
+2026 02 26 14:21:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 5], received=[11, 11]
+2026 02 26 14:21:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2579 | steps=27103
+2026 02 26 14:21:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:21:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2575 | steps=27133
+2026 02 26 14:21:35 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:21:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2571 | steps=27167
+2026 02 26 14:21:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:21:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2567 | steps=27196
+2026 02 26 14:21:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:21:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2564 | steps=27222
+2026 02 26 14:21:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:21:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2561 | steps=27240
+2026 02 26 14:21:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:21:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[4, 5]
+2026 02 26 14:21:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2558 | steps=27265
+2026 02 26 14:21:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:21:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:21:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2555 | steps=27290
+2026 02 26 14:21:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:21:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:21:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2552 | steps=27315
+2026 02 26 14:21:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:22:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2549 | steps=27336
+2026 02 26 14:22:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:22:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:22:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2546 | steps=27360
+2026 02 26 14:22:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:22:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2543 | steps=27384
+2026 02 26 14:22:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:22:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:22:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2539 | steps=27414
+2026 02 26 14:22:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:22:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2536 | steps=27436
+2026 02 26 14:22:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:22:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2533 | steps=27461
+2026 02 26 14:22:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [10, 11]
+2026 02 26 14:22:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[10, 11], received=[3, 4]
+2026 02 26 14:22:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2529 | steps=27491
+2026 02 26 14:22:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:22:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:22:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2526 | steps=27518
+2026 02 26 14:22:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:22:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:22:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2524 | steps=27538
+2026 02 26 14:22:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:22:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2520 | steps=27565
+2026 02 26 14:22:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [10]
+2026 02 26 14:22:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=10
+2026 02 26 14:22:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2517 | steps=27590
+2026 02 26 14:22:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:22:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2514 | steps=27612
+2026 02 26 14:22:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:22:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 3]
+2026 02 26 14:22:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2510 | steps=27644
+2026 02 26 14:22:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[10, 11]
+2026 02 26 14:22:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2507 | steps=27671
+2026 02 26 14:22:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:22:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2503 | steps=27704
+2026 02 26 14:22:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:22:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2500 | steps=27727
+2026 02 26 14:22:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 14:22:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2497 | steps=27749
+2026 02 26 14:22:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:22:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[3, 4]
+2026 02 26 14:22:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2494 | steps=27770
+2026 02 26 14:22:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:22:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 3]
+2026 02 26 14:23:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2491 | steps=27798
+2026 02 26 14:23:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:23:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2488 | steps=27822
+2026 02 26 14:23:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:23:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:23:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2485 | steps=27847
+2026 02 26 14:23:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 12]
+2026 02 26 14:23:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2482 | steps=27867
+2026 02 26 14:23:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:23:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 3]
+2026 02 26 14:23:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2479 | steps=27892
+2026 02 26 14:23:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:23:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:23:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2476 | steps=27922
+2026 02 26 14:23:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:23:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2472 | steps=27953
+2026 02 26 14:23:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:23:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2468 | steps=27984
+2026 02 26 14:23:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 6], received=[11, 11]
+2026 02 26 14:23:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2465 | steps=28009
+2026 02 26 14:23:30 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:23:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2462 | steps=28031
+2026 02 26 14:23:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:23:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2458 | steps=28061
+2026 02 26 14:23:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:23:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:23:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2455 | steps=28088
+2026 02 26 14:23:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[12, 12]
+2026 02 26 14:23:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2452 | steps=28112
+2026 02 26 14:23:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [12, 12]
+2026 02 26 14:23:44 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[12, 12], received=[1, 2]
+2026 02 26 14:23:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2449 | steps=28138
+2026 02 26 14:23:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 7], received=[11, 12]
+2026 02 26 14:23:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2445 | steps=28167
+2026 02 26 14:23:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:23:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2442 | steps=28194
+2026 02 26 14:23:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:23:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:23:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2439 | steps=28223
+2026 02 26 14:23:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:24:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2435 | steps=28255
+2026 02 26 14:24:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:24:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2432 | steps=28273
+2026 02 26 14:24:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:24:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[1, 2]
+2026 02 26 14:24:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2429 | steps=28299
+2026 02 26 14:24:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:24:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2426 | steps=28327
+2026 02 26 14:24:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 11]
+2026 02 26 14:24:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2423 | steps=28352
+2026 02 26 14:24:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:24:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2420 | steps=28376
+2026 02 26 14:24:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 5], received=[11, 11]
+2026 02 26 14:24:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2417 | steps=28401
+2026 02 26 14:24:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:24:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 4]
+2026 02 26 14:24:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2414 | steps=28429
+2026 02 26 14:24:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 11]
+2026 02 26 14:24:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2411 | steps=28450
+2026 02 26 14:24:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[11, 11]
+2026 02 26 14:24:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2408 | steps=28472
+2026 02 26 14:24:24 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[10, 11]
+2026 02 26 14:24:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2405 | steps=28497
+2026 02 26 14:24:27 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 11]
+2026 02 26 14:24:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2402 | steps=28527
+2026 02 26 14:24:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:24:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2399 | steps=28552
+2026 02 26 14:24:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:24:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:24:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2396 | steps=28579
+2026 02 26 14:24:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:24:33 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:24:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2392 | steps=28607
+2026 02 26 14:24:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=5
+2026 02 26 14:24:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2390 | steps=28628
+2026 02 26 14:24:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:24:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:24:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2385 | steps=28663
+2026 02 26 14:24:41 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
+2026 02 26 14:24:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2382 | steps=28692
+2026 02 26 14:24:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[10, 10]
+2026 02 26 14:24:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2378 | steps=28723
+2026 02 26 14:24:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:24:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2376 | steps=28746
+2026 02 26 14:24:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:24:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2373 | steps=28771
+2026 02 26 14:24:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:24:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2370 | steps=28796
+2026 02 26 14:24:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:24:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2366 | steps=28826
+2026 02 26 14:24:54 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 14:24:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2364 | steps=28847
+2026 02 26 14:24:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:24:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 4]
+2026 02 26 14:24:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2360 | steps=28880
+2026 02 26 14:24:58 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:25:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2357 | steps=28899
+2026 02 26 14:25:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:25:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:25:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2355 | steps=28924
+2026 02 26 14:25:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:25:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:25:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2352 | steps=28947
+2026 02 26 14:25:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 3], received=[12, 12]
+2026 02 26 14:25:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2349 | steps=28971
+2026 02 26 14:25:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:25:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2346 | steps=29000
+2026 02 26 14:25:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:25:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2342 | steps=29029
+2026 02 26 14:25:14 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:25:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2339 | steps=29057
+2026 02 26 14:25:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:25:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2336 | steps=29084
+2026 02 26 14:25:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:25:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2333 | steps=29110
+2026 02 26 14:25:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:25:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2329 | steps=29141
+2026 02 26 14:25:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:25:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2327 | steps=29163
+2026 02 26 14:25:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:25:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 3]
+2026 02 26 14:25:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2323 | steps=29190
+2026 02 26 14:25:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[12, 12]
+2026 02 26 14:25:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2321 | steps=29215
+2026 02 26 14:25:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:25:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2318 | steps=29238
+2026 02 26 14:25:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:25:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2315 | steps=29263
+2026 02 26 14:25:36 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:25:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2312 | steps=29286
+2026 02 26 14:25:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:25:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2309 | steps=29311
+2026 02 26 14:25:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:25:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2307 | steps=29331
+2026 02 26 14:25:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:25:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:25:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2304 | steps=29357
+2026 02 26 14:25:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:25:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2302 | steps=29379
+2026 02 26 14:25:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:25:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2298 | steps=29411
+2026 02 26 14:25:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:25:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2295 | steps=29438
+2026 02 26 14:25:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:25:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:25:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2293 | steps=29456
+2026 02 26 14:25:55 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[12, 12]
+2026 02 26 14:25:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2289 | steps=29486
+2026 02 26 14:25:57 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:26:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2286 | steps=29515
+2026 02 26 14:26:00 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:26:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2282 | steps=29547
+2026 02 26 14:26:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:26:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2280 | steps=29567
+2026 02 26 14:26:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 11]
+2026 02 26 14:26:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2278 | steps=29583
+2026 02 26 14:26:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:26:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2276 | steps=29601
+2026 02 26 14:26:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:26:11 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 2]
+2026 02 26 14:26:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2273 | steps=29629
+2026 02 26 14:26:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 12]
+2026 02 26 14:26:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2270 | steps=29652
+2026 02 26 14:26:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:26:18 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=6, received=11
+2026 02 26 14:26:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2267 | steps=29681
+2026 02 26 14:26:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:26:21 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:26:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2264 | steps=29710
+2026 02 26 14:26:23 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 12]
+2026 02 26 14:26:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2261 | steps=29732
+2026 02 26 14:26:26 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:26:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2259 | steps=29754
+2026 02 26 14:26:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:26:29 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[4, 4]
+2026 02 26 14:26:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2256 | steps=29779
+2026 02 26 14:26:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:26:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:26:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2254 | steps=29801
+2026 02 26 14:26:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:26:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[3, 4]
+2026 02 26 14:26:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2250 | steps=29830
+2026 02 26 14:26:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:26:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 2]
+2026 02 26 14:26:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2247 | steps=29855
+2026 02 26 14:26:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:26:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:26:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2245 | steps=29880
+2026 02 26 14:26:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:26:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2242 | steps=29908
+2026 02 26 14:26:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[10, 11]
+2026 02 26 14:26:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2240 | steps=29924
+2026 02 26 14:26:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:26:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:26:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2237 | steps=29951
+2026 02 26 14:26:50 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:26:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2234 | steps=29978
+2026 02 26 14:26:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:26:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:26:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2230 | steps=30007
+2026 02 26 14:26:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:26:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=12
+2026 02 26 14:26:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2228 | steps=30033
+2026 02 26 14:26:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:26:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:27:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2225 | steps=30058
+2026 02 26 14:27:02 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 11]
+2026 02 26 14:27:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2222 | steps=30079
+2026 02 26 14:27:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 12]
+2026 02 26 14:27:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2220 | steps=30103
+2026 02 26 14:27:07 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[12, 12]
+2026 02 26 14:27:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2217 | steps=30131
+2026 02 26 14:27:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[11, 12]
+2026 02 26 14:27:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2214 | steps=30155
+2026 02 26 14:27:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:27:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2212 | steps=30175
+2026 02 26 14:27:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:27:15 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=1, received=11
+2026 02 26 14:27:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2209 | steps=30197
+2026 02 26 14:27:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:27:17 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=12
+2026 02 26 14:27:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2207 | steps=30222
+2026 02 26 14:27:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:27:20 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=11
+2026 02 26 14:27:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2204 | steps=30243
+2026 02 26 14:27:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:27:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2202 | steps=30266
+2026 02 26 14:27:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:27:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:27:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2199 | steps=30290
+2026 02 26 14:27:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [10, 11]
+2026 02 26 14:27:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[10, 11], received=[2, 4]
+2026 02 26 14:27:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2196 | steps=30317
+2026 02 26 14:27:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=4
+2026 02 26 14:27:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2194 | steps=30338
+2026 02 26 14:27:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:27:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[2, 2]
+2026 02 26 14:27:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2191 | steps=30363
+2026 02 26 14:27:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:27:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2189 | steps=30386
+2026 02 26 14:27:39 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:27:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2186 | steps=30408
+2026 02 26 14:27:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:27:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=11
+2026 02 26 14:27:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2183 | steps=30434
+2026 02 26 14:27:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:27:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2181 | steps=30459
+2026 02 26 14:27:48 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:27:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2177 | steps=30488
+2026 02 26 14:27:51 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 14:27:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2175 | steps=30513
+2026 02 26 14:27:53 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:27:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2172 | steps=30541
+2026 02 26 14:27:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:27:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2168 | steps=30578
+2026 02 26 14:27:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=2
+2026 02 26 14:28:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2164 | steps=30610
+2026 02 26 14:28:03 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:28:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2161 | steps=30636
+2026 02 26 14:28:06 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:28:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2159 | steps=30661
+2026 02 26 14:28:10 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 11]
+2026 02 26 14:28:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2156 | steps=30685
+2026 02 26 14:28:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 11]
+2026 02 26 14:28:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2154 | steps=30709
+2026 02 26 14:28:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:28:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2151 | steps=30730
+2026 02 26 14:28:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 12]
+2026 02 26 14:28:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2149 | steps=30754
+2026 02 26 14:28:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 4], received=[11, 11]
+2026 02 26 14:28:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2146 | steps=30776
+2026 02 26 14:28:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[12, 12]
+2026 02 26 14:28:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2144 | steps=30800
+2026 02 26 14:28:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=1
+2026 02 26 14:28:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2141 | steps=30823
+2026 02 26 14:28:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [12, 12]
+2026 02 26 14:28:31 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[12, 12], received=[3, 5]
+2026 02 26 14:28:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2139 | steps=30845
+2026 02 26 14:28:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 5], received=[11, 12]
+2026 02 26 14:28:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2136 | steps=30874
+2026 02 26 14:28:37 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:28:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2133 | steps=30899
+2026 02 26 14:28:40 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 2], received=[9, 11]
+2026 02 26 14:28:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2130 | steps=30925
+2026 02 26 14:28:43 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[10, 10]
+2026 02 26 14:28:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2127 | steps=30952
+2026 02 26 14:28:46 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[10, 11]
+2026 02 26 14:28:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2125 | steps=30974
+2026 02 26 14:28:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [11]
+2026 02 26 14:28:49 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=3, received=11
+2026 02 26 14:28:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2122 | steps=31006
+2026 02 26 14:28:52 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:28:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2119 | steps=31033
+2026 02 26 14:28:56 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[11, 11]
+2026 02 26 14:29:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2116 | steps=31058
+2026 02 26 14:29:01 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 3], received=[11, 11]
+2026 02 26 14:29:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2114 | steps=31081
+2026 02 26 14:29:05 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 5], received=[11, 11]
+2026 02 26 14:29:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2111 | steps=31108
+2026 02 26 14:29:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:29:09 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:29:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2108 | steps=31134
+2026 02 26 14:29:13 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[5, 5], received=[11, 11]
+2026 02 26 14:29:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2106 | steps=31158
+2026 02 26 14:29:16 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:29:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2103 | steps=31186
+2026 02 26 14:29:19 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 3], received=[11, 12]
+2026 02 26 14:29:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2100 | steps=31213
+2026 02 26 14:29:22 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=1
+2026 02 26 14:29:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2097 | steps=31240
+2026 02 26 14:29:25 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 2], received=[12, 12]
+2026 02 26 14:29:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2095 | steps=31262
+2026 02 26 14:29:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [12]
+2026 02 26 14:29:28 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=2, received=12
+2026 02 26 14:29:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2092 | steps=31290
+2026 02 26 14:29:32 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[3, 4], received=[10, 11]
+2026 02 26 14:29:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2090 | steps=31312
+2026 02 26 14:29:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 1 cards: [10]
+2026 02 26 14:29:34 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=4, received=10
+2026 02 26 14:29:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2086 | steps=31343
+2026 02 26 14:29:38 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[1, 4], received=[11, 12]
+2026 02 26 14:29:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2084 | steps=31369
+2026 02 26 14:29:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 12]
+2026 02 26 14:29:42 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 12], received=[1, 3]
+2026 02 26 14:29:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2081 | steps=31392
+2026 02 26 14:29:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchanging 2 cards: [11, 11]
+2026 02 26 14:29:45 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[11, 11], received=[2, 3]
+2026 02 26 14:29:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2078 | steps=31421
+2026 02 26 14:29:47 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=12, received=3
+2026 02 26 14:29:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2075 | steps=31452
+2026 02 26 14:29:59 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[4, 4], received=[11, 12]
+2026 02 26 14:30:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2071 | steps=31486
+2026 02 26 14:30:04 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=2
+2026 02 26 14:30:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2070 | steps=31503
+2026 02 26 14:30:08 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=[2, 5], received=[11, 11]
+2026 02 26 14:30:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Match over | epsilon=0.2067 | steps=31526
+2026 02 26 14:30:12 INFO     [Agent VAE_DQN_DQN_Agent]:  Exchange: sent=11, received=3
