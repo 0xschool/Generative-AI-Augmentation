@@ -1,0 +1,61 @@
+[
+  {
+    "name": "VAE + Curiosity (latent=32)",
+    "cfg": {
+      "latent_dim": 32,
+      "use_intrinsic_reward": true,
+      "intrinsic_scale": 0.05
+    },
+    "eval_win_counts": {
+      "chef": 0,
+      "sous_chef": 0,
+      "waiter": 1,
+      "dishwasher": 49
+    },
+    "eval_chef_rate": 0.0
+  },
+  {
+    "name": "VAE, No Curiosity (latent=32)",
+    "cfg": {
+      "latent_dim": 32,
+      "use_intrinsic_reward": false
+    },
+    "eval_win_counts": {
+      "chef": 0,
+      "sous_chef": 0,
+      "waiter": 1,
+      "dishwasher": 49
+    },
+    "eval_chef_rate": 0.0
+  },
+  {
+    "name": "VAE + Curiosity (latent=16)",
+    "cfg": {
+      "latent_dim": 16,
+      "use_intrinsic_reward": true,
+      "intrinsic_scale": 0.05
+    },
+    "eval_win_counts": {
+      "chef": 0,
+      "sous_chef": 0,
+      "waiter": 1,
+      "dishwasher": 49
+    },
+    "eval_chef_rate": 0.0
+  },
+  {
+    "name": "VAE + Curiosity (latent=64)",
+    "cfg": {
+      "latent_dim": 64,
+      "use_intrinsic_reward": true,
+      "intrinsic_scale": 0.05
+    },
+    "eval_win_counts": {
+      "chef": 0,
+      "sous_chef": 0,
+      "waiter": 1,
+      "dishwasher": 49
+    },
+    "eval_chef_rate": 0.0
+  }
+]

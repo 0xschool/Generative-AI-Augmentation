@@ -1,0 +1,15 @@
+{
+  "student_id": "16735347",
+  "variant": 6,
+  "total_matches": 3000,
+  "total_steps": 75160,
+  "final_epsilon": 0.05,
+  "win_counts": {
+    "chef": 0,
+    "sous_chef": 0,
+    "waiter": 10,
+    "dishwasher": 2990
+  },
+  "chef_rate": 0.0,
+  "timestamp": "2026-02-26T12:23:39.201989"
+}

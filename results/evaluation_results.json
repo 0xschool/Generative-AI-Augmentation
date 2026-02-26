@@ -1,0 +1,43 @@
+{
+  "student_id": "16735347",
+  "variant": 6,
+  "eval_seeds": 3,
+  "eval_matches": 100,
+  "results": [
+    {
+      "seed": 0,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 1,
+        "dishwasher": 99
+      },
+      "chef_rate": 0.0,
+      "avg_match_reward": 0.011363962290315428
+    },
+    {
+      "seed": 1,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 1,
+        "dishwasher": 99
+      },
+      "chef_rate": 0.0,
+      "avg_match_reward": 0.010351039011126616
+    },
+    {
+      "seed": 2,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 1,
+        "dishwasher": 99
+      },
+      "chef_rate": 0.0,
+      "avg_match_reward": 0.010738188984056532
+    }
+  ],
+  "mean_chef_rate": 0.0,
+  "std_chef_rate": 0.0
+}
