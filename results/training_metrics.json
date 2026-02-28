@@ -1,15 +1,139 @@
 {
   "student_id": "16735347",
   "variant": 6,
-  "total_matches": 3000,
-  "total_steps": 75160,
-  "final_epsilon": 0.05,
+  "config": {
+    "latent_dim": 32,
+    "lr": 0.0001,
+    "gamma": 0.99,
+    "epsilon": 1.0,
+    "epsilon_min": 0.05,
+    "epsilon_decay": 0.99995,
+    "batch_size": 64,
+    "buffer_capacity": 100000,
+    "target_update_freq": 500,
+    "use_intrinsic_reward": true,
+    "intrinsic_scale": 0.05
+  },
+  "total_steps": 12496,
+  "final_epsilon": 0.5353601288413872,
   "win_counts": {
     "chef": 0,
     "sous_chef": 0,
     "waiter": 10,
-    "dishwasher": 2990
+    "dishwasher": 490
   },
-  "chef_rate": 0.0,
-  "timestamp": "2026-02-26T12:23:39.201989"
+  "avg_reward_overall": 0.01938513622709752,
+  "per_game": [
+    {
+      "game": 0,
+      "avg_match_reward": 0.02271228541882846,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 1,
+        "dishwasher": 49
+      },
+      "epsilon": 0.9380973060592706
+    },
+    {
+      "game": 1,
+      "avg_match_reward": 0.020061453771948522,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 2,
+        "dishwasher": 98
+      },
+      "epsilon": 0.8818765995201494
+    },
+    {
+      "game": 2,
+      "avg_match_reward": 0.020540096071400428,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 3,
+        "dishwasher": 147
+      },
+      "epsilon": 0.8278239864816889
+    },
+    {
+      "game": 3,
+      "avg_match_reward": 0.017242333072320953,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 4,
+        "dishwasher": 196
+      },
+      "epsilon": 0.7784844515635795
+    },
+    {
+      "game": 4,
+      "avg_match_reward": 0.018515746928671948,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 5,
+        "dishwasher": 245
+      },
+      "epsilon": 0.7313173202737185
+    },
+    {
+      "game": 5,
+      "avg_match_reward": 0.018994035690557423,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 6,
+        "dishwasher": 294
+      },
+      "epsilon": 0.6868018936103167
+    },
+    {
+      "game": 6,
+      "avg_match_reward": 0.023674327501367484,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 7,
+        "dishwasher": 343
+      },
+      "epsilon": 0.6449638797671623
+    },
+    {
+      "game": 7,
+      "avg_match_reward": 0.018885043447102935,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 8,
+        "dishwasher": 392
+      },
+      "epsilon": 0.6056442347551387
+    },
+    {
+      "game": 8,
+      "avg_match_reward": 0.013182612873462316,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 9,
+        "dishwasher": 441
+      },
+      "epsilon": 0.5688354352238222
+    },
+    {
+      "game": 9,
+      "avg_match_reward": 0.020043427495314695,
+      "win_counts": {
+        "chef": 0,
+        "sous_chef": 0,
+        "waiter": 10,
+        "dishwasher": 490
+      },
+      "epsilon": 0.5353601288413872
+    }
+  ],
+  "timestamp": "2026-02-28T15:59:42.136565"
 }

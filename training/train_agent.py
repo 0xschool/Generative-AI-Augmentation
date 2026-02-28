@@ -28,8 +28,8 @@ from agents.vae_dqn_agent import VaeDqnAgent
 
 # ── Config ───────────────────────────────────────────────────────────────────
 
-NUM_GAMES        = 20    
-MATCHES_PER_GAME = 500   
+NUM_GAMES        = 10    
+MATCHES_PER_GAME = 50  
 
 VAE_PATH         = "results/models/vae_pretrained.pt"
 MODEL_DIR        = "results/models"
