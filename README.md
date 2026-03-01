@@ -64,14 +64,14 @@ All commands must be run from the **project root folder**.
 
 ### Step 1 — Pre-train the VAE (~5 minutes)
 ```bash
-python training/pretrain_vae.py
+python3 training/pretrain_vae.py
 ```
 Collects ~100k game observations via random play, trains the VAE to compress
 228-dim states to 32-dim latent codes. Saves to `results/models/vae_pretrained.pt`.
 
 ### Step 2 — Train the DQN Agent (~20-40 minutes)
 ```bash
-python training/train_agent.py
+python3 training/train_agent.py
 ```
 Trains a Dueling Double DQN against 3 official `AgentRandon` opponents over
 10 games × 300 matches. Prints progress every 100 matches. Saves final model
@@ -79,7 +79,7 @@ to `results/models/dqn_final.pt`.
 
 ### Step 3 — Evaluate the Agent (~5 minutes)
 ```bash
-python evaluation/evaluate_agent.py
+python3 evaluation/evaluate_agent.py
 ```
 Tests the trained agent vs 3 random opponents across 3 seeds (100 matches each).
 Generates PCA visualisation of the VAE latent space and a win rate summary.
@@ -87,7 +87,7 @@ A Chef rate above 25% means the agent beats the random baseline.
 
 ### Step 4 — Ablation Experiments (optional, ~30 minutes)
 ```bash
-python evaluation/run_experiments.py
+python3 evaluation/run_experiments.py
 ```
 Compares: with/without curiosity, latent dimensions 16 / 32 / 64.
 
