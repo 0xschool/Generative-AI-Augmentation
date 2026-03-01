@@ -29,8 +29,8 @@ The Generative AI component is a **Variational Autoencoder (VAE)** that:
 
 ### Step 1 — Clone this repository
 ```bash
-git clone <this-repo-url>
-cd chefs_hat_rl
+git clone https://github.com/0xschool/Generative-AI-Augmentation.git
+cd Generative-AI-Augmentation
 ```
 
 ### Step 2 — Create a virtual environment (recommended)
