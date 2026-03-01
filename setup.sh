@@ -32,6 +32,11 @@ pip install -e ChefsHatGYM/
 # ── 4. Install our project dependencies ──────────────────────────────────
 echo "[4/4] Installing project dependencies..."
 pip install torch numpy matplotlib scikit-learn
+pip install chefshatgym
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install "numpy==1.24.3" --force-reinstall
+pip install gym
+
 
 # ── Done ──────────────────────────────────────────────────────────────────
 echo ""
