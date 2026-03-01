@@ -55,14 +55,6 @@ pip install chefshatgym
 
 ```
 
-> **If setup.sh fails**, install manually:
-> ```bash
-> git clone https://github.com/pablovin/ChefsHatGYM.git
-> pip install numpy==1.24.3
-> pip install matplotlib pandas gym websockets --no-deps
-> pip install -e ChefsHatGYM/ --no-deps
-> pip install torch scikit-learn
-> ```
 
 ---
 
