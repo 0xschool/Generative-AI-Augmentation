@@ -45,6 +45,7 @@ venv\Scripts\activate
 ```bash
 bash setup.sh
 ```
+pip install "numpy==1.24.3" --force-reinstall
 
 > **If setup.sh fails**, install manually:
 > ```bash
