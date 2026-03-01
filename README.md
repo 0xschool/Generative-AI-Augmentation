@@ -45,7 +45,15 @@ venv\Scripts\activate
 ```bash
 bash setup.sh
 ```
+### Step 4 — Run the dependency scripts to solve the issues of module versioning if setup.sh fails
+```
 pip install "numpy==1.24.3" --force-reinstall
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install matplotlib
+pip install gym
+pip install chefshatgym
+
+```
 
 > **If setup.sh fails**, install manually:
 > ```bash
