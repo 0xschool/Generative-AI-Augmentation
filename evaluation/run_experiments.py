@@ -22,7 +22,7 @@ from ChefsHatGym.env.ChefsHatEnv import GAMETYPE
 from ChefsHatGym.agents.agent_random import AgentRandon
 from ChefsHatGym.gameRooms.chefs_hat_room_local import ChefsHatRoomLocal
 
-from agents.vae_dqn_agent import VaeDqnAgent
+from agents.vae_dqn_agent_modified import VaeDqnAgent
 
 LOG_DIR  = "results/logs"
 PLOT_DIR = "results/plots"

@@ -21,6 +21,9 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 from ChefsHatGym.env.ChefsHatEnv import GAMETYPE
+
+from ChefsHatGym.env.ChefsHatEnv import ChefsHatEnv
+
 from ChefsHatGym.agents.agent_random import AgentRandon       # official random agent
 from ChefsHatGym.gameRooms.chefs_hat_room_local import ChefsHatRoomLocal  # official room
 

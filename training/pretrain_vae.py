@@ -20,9 +20,12 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-import gym
-from ChefsHatGym.env import ChefsHatEnv
-from ChefsHatGym.env.ChefsHatEnv import GAMETYPE
+#import gym
+#from ChefsHatGym.env import ChefsHatEnv
+#from ChefsHatGym.env.ChefsHatEnv import GAMETYPE
+
+from ChefsHatGym.env.ChefsHatEnv import ChefsHatEnv, GAMETYPE
+
 from ChefsHatGym.agents.agent_random import AgentRandon   # official random agent
 from ChefsHatGym.gameRooms.chefs_hat_room_local import ChefsHatRoomLocal
 
@@ -59,7 +62,8 @@ def collect_observations(num_games=20, matches=50):
     for g in range(num_games):
         try:
             # Use official env directly for observation collection
-            env = gym.make("chefshat-v1")
+           # env = gym.make("chefshat-v1")
+            env = ChefsHatEnv()
             env.startExperiment(
                 gameType=GAMETYPE["MATCHES"],
                 stopCriteria=matches,

@@ -7,37 +7,37 @@
     {
       "seed": 0,
       "win_counts": {
-        "chef": 0,
-        "sous_chef": 0,
-        "waiter": 1,
-        "dishwasher": 99
+        "chef": 21,
+        "sous_chef": 11,
+        "waiter": 22,
+        "dishwasher": 46
       },
-      "chef_rate": 0.0,
-      "avg_match_reward": 0.011363962290315428
+      "chef_rate": 0.21,
+      "avg_match_reward": -0.1718076138958847
     },
     {
       "seed": 1,
       "win_counts": {
-        "chef": 0,
-        "sous_chef": 0,
-        "waiter": 1,
-        "dishwasher": 99
+        "chef": 21,
+        "sous_chef": 24,
+        "waiter": 14,
+        "dishwasher": 41
       },
-      "chef_rate": 0.0,
-      "avg_match_reward": 0.010351039011126616
+      "chef_rate": 0.21,
+      "avg_match_reward": -0.019932183819720495
     },
     {
       "seed": 2,
       "win_counts": {
-        "chef": 0,
-        "sous_chef": 0,
-        "waiter": 1,
-        "dishwasher": 99
+        "chef": 26,
+        "sous_chef": 17,
+        "waiter": 20,
+        "dishwasher": 37
       },
-      "chef_rate": 0.0,
-      "avg_match_reward": 0.010738188984056532
+      "chef_rate": 0.26,
+      "avg_match_reward": 0.010105711938540908
     }
   ],
-  "mean_chef_rate": 0.0,
-  "std_chef_rate": 0.0
+  "mean_chef_rate": 0.22666666666666666,
+  "std_chef_rate": 0.023570226039551594
 }
