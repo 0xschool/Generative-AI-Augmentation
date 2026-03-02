@@ -104,7 +104,7 @@ chefs_hat_rl/
 ├── ChefsHatGYM/                     <- Cloned by setup.sh (official repo)
 │
 ├── agents/
-│   └── vae_dqn_agent.py             <- Our DQN agent
+│   └── vae_dqn_agent_modified.py             <- Our DQN agent
 │
 ├── models/
 │   ├── vae.py                       <- Variational Autoencoder (Gen AI component)
@@ -144,9 +144,8 @@ Raw Observation (228-dim)
     Action chosen
 
 Reward:
-  Per step  : -0.002 step penalty + 0.01 x cards played + 0.05 x pizza
   Curiosity : VAE reconstruction error x 0.05 (intrinsic exploration bonus)
-  Terminal  : Chef=+1.0 | Sous-Chef=+0.33 | Waiter=-0.33 | Dishwasher=-1.0
+  Graded  : +1.0/+0.5/−0.5/−1.0 by role + step shaping
 ```
 
 ---
